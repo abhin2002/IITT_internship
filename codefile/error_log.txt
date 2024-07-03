@@ -1,0 +1,4 @@
+Error processing /mnt/DATA/dronetracking/Abhin/segement&detect/detection_dataset/train/img/00579.jpg: 'object' tag not found
+Error processing /mnt/DATA/dronetracking/Abhin/segement&detect/detection_dataset/train/img/00639.jpg: 'object' tag not found
+Error processing /mnt/DATA/dronetracking/Abhin/segement&detect/detection_dataset/train/img/00724.jpg: 'object' tag not found
+Error processing /mnt/DATA/dronetracking/Abhin/segement&detect/detection_DUT/val/img/00991.jpg: Cropping coordinates result in an invalid region
